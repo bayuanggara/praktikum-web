@@ -1,0 +1,15 @@
+div { /*kode css untuk elemen div*/
+position:absolute;
+top:20%;
+left:35%;
+border: 3px solid #6badf6;
+width:400px;
+height:300px;
+background-color:#eef7ff;
+}
+
+
+
+#form1 { /*kode css untuk id form1*/
+margin-left:55px;
+}
